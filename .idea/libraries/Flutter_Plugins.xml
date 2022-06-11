@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Flutter Plugins" type="FlutterPluginsLibraryType">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../tools/flutter_3.0/.pub-cache/hosted/pub.dartlang.org/permission_handler-9.2.0" />
+      <root url="file://$PROJECT_DIR$/../tools/flutter_3.0/.pub-cache/hosted/pub.dartlang.org/agora_rtc_engine-5.2.0" />
+      <root url="file://$PROJECT_DIR$/../tools/flutter_3.0/.pub-cache/hosted/pub.dartlang.org/agora_rtm-1.1.1" />
+      <root url="file://$PROJECT_DIR$/../tools/flutter_3.0/.pub-cache/hosted/pub.dartlang.org/agora_uikit-1.0.1" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
